@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book id="B099">
+        <booktitle>The Firm</booktitle>
+        <author>John Grisham</author>
+        <price>99</price>
+    </book>
+    <book id="B001">
+        <booktitle>Coma</booktitle>
+        <author>Robin Cook</author>
+        <price>100</price>
+    </book>
+    <book id="B253">
+        <booktitle>Probality and Statistic</booktitle>
+        <author>HiepTT</author>
+        <price>200</price>
+    </book>
+    <book id="B112">
+        <booktitle>Marx Lenin</booktitle>
+        <author>DCSVN</author>
+        <price>20</price>
+    </book>
+    <book id="B020">
+        <booktitle>Dac Nhan Tam</booktitle>
+        <author>ABC</author>
+        <price>123</price>
+    </book>
+    <book id="B323">
+        <booktitle>Test Book</booktitle>
+        <author>Test Author</author>
+        <price>99</price>
+    </book>
+</library>
