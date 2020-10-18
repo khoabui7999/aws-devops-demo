@@ -115,7 +115,7 @@
       Name: <input type="text" name="txtSearch" value=""/> <br/>
       <input type="button" value="Search" onclick="traversalDOMTree('./library.xml', 'dataTable')"/>
     </form>
-     <!-- <table border="1" id="dataTable">
+     <table border="1" id="dataTable">
       <thead>
         <tr>
           <th>No</th>
@@ -125,7 +125,7 @@
           <th>Price</th>
         </tr>
       </thead>
-    </table> -->
+    </table>
     <form name="updateForm">
       <input type="button" value="Synchronize" onclick="update()"/>
     </form>
