@@ -6,7 +6,7 @@ phases:
       java: corretto11
   post_build:
     commands:
-      - mv target/aws-devops-demo.war aws-devops-demo.war
+      - jar -cvf aws-devops-demo.war *
 artifacts:
   files:
     - aws-devops-demo.war
